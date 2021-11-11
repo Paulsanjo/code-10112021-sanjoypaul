@@ -1,4 +1,4 @@
-"# code-10112021-sanjoypaul" 
+# code-10112021-sanjoypaul
 
 1. Download the Repo
 2. Install Python and setup the environment 
